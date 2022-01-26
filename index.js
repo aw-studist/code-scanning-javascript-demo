@@ -343,3 +343,6 @@ function mkdirfix (name, opts, cb) {
     }
   })
 }
+
+
+// test
